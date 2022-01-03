@@ -1,0 +1,1 @@
+strCount=str.count
